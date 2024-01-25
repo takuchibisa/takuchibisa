@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2>Hi, I'm Taku!  </h2>
+<br/><a href="https://github.com/takuchibisa">Azure Network Engineer Associate</a>, <a href="https://www.linkedin.com/in/takudzwa-chibisa/"> Network Engineer</a>
+<p> Follow my journey as I transition from a Network Engineer to Cloud Engineer</p>
+<h2> Azure Projects</h2>
 
-<!--
-**takuchibisa/takuchibisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Deployed a Hub-Spoke Network using Azure Bicep </b>
+  - Add link of github project
+    
+- <b>Cloud Resume Challenge </b>
 
-Here are some ideas to get you started:
+<h2> Certifications</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Azure Network Engineer Associate (https://learn.microsoft.com/en-gb/users/taku-8223/credentials/e9a7b6444a72c547)
+  - Comptia Security+ (https://www.credly.com/badges/b4131da9-8469-41dc-b041-2de4648e877e)
+  - Cisco CCNA (https://www.credly.com/badges/b2be51e4-ca40-4603-a3bf-56fe170e2830?source=linked_in_profile)
+
+<h2> Connect </h2>
+
+[<img align="left" alt="TakuChibisa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/takudzwa-chibisa/
