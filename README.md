@@ -4,7 +4,7 @@
 <h2> Azure Projects</h2>
 
 - <b>Deployed a Hub-Spoke Network using Azure Bicep </b>
-  - Add link of github project
+  - https://github.com/takuchibisa/HubSpokeBicepDeployment
     
 - <b>Cloud Resume Challenge </b>
 
