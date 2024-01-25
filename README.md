@@ -3,10 +3,9 @@
 <p> Follow my journey as I transition from a Network Engineer to Cloud Engineer</p>
 <h2> Azure Projects</h2>
 
-- <b>Deployed a Hub-Spoke Network using Azure Bicep </b>
-  - https://github.com/takuchibisa/HubSpokeBicepDeployment
+ -  [Deployed a Hub-Spoke Network using Azure Bicep](https://github.com/takuchibisa/HubSpokeBicepDeployment)
     
-- <b>Cloud Resume Challenge </b>
+-  Cloud Resume Challenge 
 
 <h2> Certifications</h2>
 
