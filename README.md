@@ -4,8 +4,8 @@
 <h2> Azure Projects</h2>
 
  -  [Deployed a Hub-Spoke Network using Azure Bicep](https://github.com/takuchibisa/HubSpokeBicepDeployment)
-    
--  Cloud Resume Challenge 
+ -  [Deployed a Hybrid Network Simulation using Terraform](https://github.com/takuchibisa/HybridNetworkSim)  
+ -   Cloud Resume Challenge 
 
 <h2> Certifications</h2>
 
